@@ -11,7 +11,7 @@ public class Fire : MonoBehaviour
     private Vector3 position;
     private void Start()
     {
-        var position = FirePoint.transform.position;
+        position = FirePoint.transform.position;
     }
     void Update()
     {

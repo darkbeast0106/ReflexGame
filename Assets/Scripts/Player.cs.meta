@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-guid: 0da8b50e33bfd624eaa31f02e7faaa72
+guid: e887da8e162ecad49972e85ca08237df
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - Circle: {instanceID: 0}
-  - Triangle: {instanceID: 0}
-  - Square: {instanceID: 0}
-  - FirePoint: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
